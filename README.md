@@ -1,2 +1,2 @@
-# Artificial_Intelligence_Python
-This repository is used to practice coding AI algorithms.
+# Artificial_Intelligence_Python, branch Decision Tree
+This branch is used to practice coding Decision Tree algorithm.
